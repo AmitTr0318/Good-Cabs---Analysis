@@ -24,7 +24,10 @@ Goodcabs, a cab service company established two years ago, has gained a strong f
 The summary page includes key info and actionable insights including total fare,totaal distance traveled, fare per km, total trips taken, count of new vs old passengers and city wise performance metrics.
 
 ### Demographic Performance
+Integrated and interactive google map displaying the 10 tier 2 cities of operation along with the aggregated trip count for a deeper insight
+
 ### Target Vs Actual - Performance Comparison
+Compared actual performance across cities, month and target shared by stakeholder.
 
 
 
