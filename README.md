@@ -21,6 +21,8 @@ Goodcabs, a cab service company established two years ago, has gained a strong f
 
 
 ### Trip Summary
+The summary page includes key info and actionable insights including total fare,totaal distance traveled, fare per km, total trips taken, count of new vs old passengers and city wise performance metrics.
+
 ### Demographic Performance
 ### Target Vs Actual - Performance Comparison
 
