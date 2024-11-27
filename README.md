@@ -1,6 +1,16 @@
 # Good-Cabs---Analysis
 ### Description
+### Business Objective
+### Trip Summary
+### Demographic Performance
+### Target Vs Actual - Performance Comparison
+
+
 [Description](#description)
+[Business Objective](#business-objective)
+[Summary Page](#trip-summary)
+[Demographic Performance](#demographic-performance)
+[Target Vs Actual - Performance Comparison](#target-vs-actual-performance-comparison)
 
 
 
